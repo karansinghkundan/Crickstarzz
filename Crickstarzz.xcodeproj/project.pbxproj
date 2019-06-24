@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		9BC9964122C1444700B962F2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9964022C1444700B962F2 /* main.swift */; };
+		9BC9964822C1446300B962F2 /* Tournament.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9964722C1446300B962F2 /* Tournament.swift */; };
+		9BC9964A22C1449900B962F2 /* WorldCup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9964922C1449900B962F2 /* WorldCup.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		9BC9963D22C1444700B962F2 /* Crickstarzz */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Crickstarzz; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BC9964022C1444700B962F2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9BC9964722C1446300B962F2 /* Tournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tournament.swift; sourceTree = "<group>"; };
+		9BC9964922C1449900B962F2 /* WorldCup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCup.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				9BC9964022C1444700B962F2 /* main.swift */,
+				9BC9964722C1446300B962F2 /* Tournament.swift */,
+				9BC9964922C1449900B962F2 /* WorldCup.swift */,
 			);
 			path = Crickstarzz;
 			sourceTree = "<group>";
@@ -119,6 +125,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BC9964822C1446300B962F2 /* Tournament.swift in Sources */,
+				9BC9964A22C1449900B962F2 /* WorldCup.swift in Sources */,
 				9BC9964122C1444700B962F2 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
