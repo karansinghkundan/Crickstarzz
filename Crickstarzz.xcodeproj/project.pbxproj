@@ -10,6 +10,7 @@
 		9BC9964822C1446300B962F2 /* Tournament.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9964722C1446300B962F2 /* Tournament.swift */; };
 		9BC9964C22C1465E00B962F2 /* ChampionsTrophy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9964B22C1465E00B962F2 /* ChampionsTrophy.swift */; };
 		9BC9964E22C146EE00B962F2 /* T20WC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9964D22C146EE00B962F2 /* T20WC.swift */; };
+		9BC9965022C1475100B962F2 /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9964F22C1475100B962F2 /* Team.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		9BC9964722C1446300B962F2 /* Tournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tournament.swift; sourceTree = "<group>"; };
 		9BC9964B22C1465E00B962F2 /* ChampionsTrophy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChampionsTrophy.swift; sourceTree = "<group>"; };
 		9BC9964D22C146EE00B962F2 /* T20WC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = T20WC.swift; sourceTree = "<group>"; };
+		9BC9964F22C1475100B962F2 /* Team.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				9BC9964722C1446300B962F2 /* Tournament.swift */,
 				9BC9964B22C1465E00B962F2 /* ChampionsTrophy.swift */,
 				9BC9964D22C146EE00B962F2 /* T20WC.swift */,
+				9BC9964F22C1475100B962F2 /* Team.swift */,
 			);
 			path = Crickstarzz;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BC9965022C1475100B962F2 /* Team.swift in Sources */,
 				9BC9964E22C146EE00B962F2 /* T20WC.swift in Sources */,
 				9BC9964C22C1465E00B962F2 /* ChampionsTrophy.swift in Sources */,
 				9BC9964822C1446300B962F2 /* Tournament.swift in Sources */,
